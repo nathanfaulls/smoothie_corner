@@ -1,0 +1,68 @@
+.jumbotron{
+  background-color: maroon;
+  color: white;
+  font-family: 'Futura';
+  font-kerning: auto;
+  font-size: 140px;
+}
+
+.container{
+  background-color: maroon;
+  color: white;
+  font-family: 'Futura';
+  font-size: 20px;
+}
+
+.header-behavior{
+  color: white;
+  font-size: 26px;
+}
+
+.special-one{
+  background-color: pink;
+}
+
+.background{
+  background-color: pink;
+}
+
+body{
+  padding-bottom: 50px;
+  margin-left: 50px;
+}
+
+p{
+  font-family: 'Futura', sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Futura', sans-serif;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  font-size: 1em;
+}
+
+#nav{
+  border:1px solid pink;
+  background: pink;
+  color: white;
+  margin-right:auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  padding: 10px;
+
+  font-family: 'Futura', sans-serif;
+  font-size: 1.3em;
+
+  text-align: center;
+  max-width: 200px;
+}
